@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+qrcode
+pillow
+thefuzz
+python-Levenshtein
